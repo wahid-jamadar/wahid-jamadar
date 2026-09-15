@@ -10,7 +10,7 @@ I started coding early and have built a diverse portfolio of projects spanning A
 - **AI/ML:** Machine learning (scikit-learn, PyTorch, TensorFlow), Generative AI (RAG, Transformers, LLMs), NLP.  
 - **Cloud & DevOps:** AWS/GCP (compute, storage, AI APIs), Docker, Kubernetes, CI/CD pipelines.  
 - **Frameworks & Tools:** FastAPI, Flask, React/Vue for frontends, PostgreSQL, Firebase, Git/GitHub, Agile workflows.  
-- **Areas:** AI Agents & Bots, Data Analytics, Backend APIs, Automation, Content Moderation, Fraud Detection.
+- **Areas:** AI Agents & Bots, Backend APIs, Automation, Content Moderation, Fraud Detection.
 
 ## 🚀 Selected Projects  
 
